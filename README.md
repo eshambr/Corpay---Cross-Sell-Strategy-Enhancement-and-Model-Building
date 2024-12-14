@@ -2,7 +2,7 @@
 # FleetCor: Cross-Sell Strategy Enhancement and Model Building
 
 ## Executive Summary
-This project aims to refine FleetCor's Cross-Sell Program by leveraging data analytics and predictive modeling to optimize customer selection and boost profitability. By analyzing customer performance data and implementing Logistic Regression, Decision Tree, and Random Forest models, we identified high-creditworthiness profiles and key performance metrics.
+This project aims to refine Corpay's Cross-Sell Program by leveraging data analytics and predictive modeling to optimize customer selection and boost profitability. By analyzing customer performance data and implementing Logistic Regression, Decision Tree, and Random Forest models, we identified high-creditworthiness profiles and key performance metrics.
 
 ## Key Business Outcomes
 - **Optimized Eligibility Model:** Enhanced criteria based on Days Past Due (DPD), NSF occurrences, and account activity.
@@ -34,7 +34,7 @@ This project aims to refine FleetCor's Cross-Sell Program by leveraging data ana
 3. **Periodic Model Updates:** Integrate new data for continuous improvement.
 
 ## Conclusion
-FleetCor's adoption of advanced analytics positions it as a leader in leveraging data science for strategic decisions. The models developed not only optimize profitability but also enhance risk management, paving the way for sustained competitive advantage.
+Corpay's adoption of advanced analytics positions it as a leader in leveraging data science for strategic decisions. The models developed not only optimize profitability but also enhance risk management, paving the way for sustained competitive advantage.
 
 ---
 
