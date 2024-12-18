@@ -1,5 +1,5 @@
 ![image](https://github.com/user-attachments/assets/f2c917c1-56db-4d17-950a-3f8d119eb23d)
-# FleetCor: Cross-Sell Strategy Enhancement and Model Building
+# Corpay: Cross-Sell Strategy Enhancement and Model Building
 
 ## Executive Summary
 This project aims to refine Corpay's Cross-Sell Program by leveraging data analytics and predictive modeling to optimize customer selection and boost profitability. By analyzing customer performance data and implementing Logistic Regression, Decision Tree, and Random Forest models, we identified high-creditworthiness profiles and key performance metrics.
